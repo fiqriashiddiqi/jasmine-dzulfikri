@@ -224,7 +224,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Jasmine & Dzulfikri</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">24 Desember 2021</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/nua7uoa8p6rpbji5482anvlbkc%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/2n04pdbpfi13dde04e6tpi60dc%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -258,7 +258,9 @@ jQuery(function($){
 				
 			</div> <!-- .et_pb_row -->
 				
-				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+				<div class="et_pb_bottom_inside_divider et-no-transition">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="52px" viewBox="0 0 1280 140" preserveAspectRatio="none"><g fill="#ffffff" style="fill: #eff5fa;"><path d="M1280 140V0S993.46 140 640 139 0 0 0 0v140z"/></g></svg>
+				</div>
 			</div> <!-- .et_pb_section -->
 			<div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
 				
@@ -344,7 +346,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Jum'at, 24 Desember 2021<br> 09.00 s/d 11.00 WIB<br> <strong>RM. Saung Ema</strong><br> Jalan RA Moetarsih, Kuningan, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
+							<p>Jum'at, 24 Desember 2021<br> 08.00 s/d 10.00 WIB<br> <strong>RM. Saung Ema</strong><br> Jalan RA Moetarsih, Kuningan, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -360,7 +362,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Senin, 24 Desember 2021<br> 11.00 s/d 14.00 WIB<br> <strong>RM. Saung Ema</strong><br> Jalan RA Moetarsih, Kuningan, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
+							<p>Senin, 24 Desember 2021<br><strong> Sesi 1 : 10.00 s/d 11.00 WIB<br>Sesi 2 : 12.30 s/d 15.00 WIB</strong><br> <strong>RM. Saung Ema</strong><br> Jalan RA Moetarsih, Kuningan, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
